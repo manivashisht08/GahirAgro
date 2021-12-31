@@ -1,0 +1,142 @@
+PODS:
+  - Alamofire (5.2.1)
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - Firebase/Auth (6.27.1):
+    - Firebase/CoreOnly
+    - FirebaseAuth (~> 6.6.0)
+  - Firebase/CoreOnly (6.27.1):
+    - FirebaseCore (= 6.8.1)
+  - FirebaseAuth (6.6.0):
+    - FirebaseCore (~> 6.8)
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.5)
+    - GoogleUtilities/Environment (~> 6.5)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - FirebaseCore (6.8.1):
+    - FirebaseCoreDiagnostics (~> 1.3)
+    - GoogleUtilities/Environment (~> 6.5)
+    - GoogleUtilities/Logger (~> 6.5)
+  - FirebaseCoreDiagnostics (1.4.0):
+    - GoogleDataTransportCCTSupport (~> 3.1)
+    - GoogleUtilities/Environment (~> 6.5)
+    - GoogleUtilities/Logger (~> 6.5)
+    - nanopb (~> 1.30905.0)
+  - GoogleDataTransport (6.2.1)
+  - GoogleDataTransportCCTSupport (3.2.0):
+    - GoogleDataTransport (~> 6.1)
+    - nanopb (~> 1.30905.0)
+  - GoogleUtilities/AppDelegateSwizzler (6.6.0):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (6.6.0):
+    - PromisesObjC (~> 1.2)
+  - GoogleUtilities/Logger (6.6.0):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/Network (6.6.0):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (6.6.0)"
+  - GoogleUtilities/Reachability (6.6.0):
+    - GoogleUtilities/Logger
+  - GTMSessionFetcher/Core (1.4.0)
+  - IQKeyboardManagerSwift (6.5.5)
+  - ISVImageScrollView (0.3.0)
+  - LGSideMenuController (2.1.1)
+  - nanopb (1.30905.0):
+    - nanopb/decode (= 1.30905.0)
+    - nanopb/encode (= 1.30905.0)
+  - nanopb/decode (1.30905.0)
+  - nanopb/encode (1.30905.0)
+  - OTPFieldView (1.0.1)
+  - PromisesObjC (1.2.9)
+  - SCLAlertView (0.8)
+  - SDWebImage (4.4.8):
+    - SDWebImage/Core (= 4.4.8)
+  - SDWebImage/Core (4.4.8)
+  - SKCountryPicker (1.3.2)
+  - SVProgressHUD (2.2.5)
+  - SVProgressHUD-0.8.1 (0.8)
+  - Toucan (1.1.0)
+  - "UITextView+Placeholder (1.4.0)"
+  - VersaPlayer (3.0.2)
+  - ZoomImageView (0.6.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Charts
+  - Firebase/Auth
+  - IQKeyboardManagerSwift
+  - ISVImageScrollView
+  - LGSideMenuController
+  - OTPFieldView
+  - SCLAlertView
+  - SDWebImage (~> 4.4.5)
+  - SKCountryPicker
+  - SVProgressHUD
+  - SVProgressHUD-0.8.1
+  - Toucan
+  - "UITextView+Placeholder (~> 1.4.0)"
+  - VersaPlayer
+  - ZoomImageView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Charts
+    - Firebase
+    - FirebaseAuth
+    - FirebaseCore
+    - FirebaseCoreDiagnostics
+    - GoogleDataTransport
+    - GoogleDataTransportCCTSupport
+    - GoogleUtilities
+    - GTMSessionFetcher
+    - IQKeyboardManagerSwift
+    - ISVImageScrollView
+    - LGSideMenuController
+    - nanopb
+    - OTPFieldView
+    - PromisesObjC
+    - SCLAlertView
+    - SDWebImage
+    - SKCountryPicker
+    - SVProgressHUD
+    - SVProgressHUD-0.8.1
+    - Toucan
+    - "UITextView+Placeholder"
+    - VersaPlayer
+    - ZoomImageView
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  Firebase: 919186c8e119dd9372a45fd1dd17a8a942bc1892
+  FirebaseAuth: b85c064e0ac60f82486728d50a4803f235687302
+  FirebaseCore: 8cd4f8ea22075e0ee582849b1cf79d8816506085
+  FirebaseCoreDiagnostics: 4505e4d4009b1d93f605088ee7d7764d5f0d1c84
+  GoogleDataTransport: 9a8a16f79feffc7f42096743de2a7c4815e84020
+  GoogleDataTransportCCTSupport: 489c1265d2c85b68187a83a911913d190012158d
+  GoogleUtilities: 39530bc0ad980530298e9c4af8549e991fd033b1
+  GTMSessionFetcher: 6f5c8abbab8a9bce4bb3f057e317728ec6182b10
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  ISVImageScrollView: 2c89840496647af985bfc0e09b346b9aa733ecec
+  LGSideMenuController: ae40c80983ab8b8801c7cef0a6804d43aaa72d45
+  nanopb: c43f40fadfe79e8b8db116583945847910cbabc9
+  OTPFieldView: 700a752fe62c41d1c4914c78aa500fb30d97c255
+  PromisesObjC: b48e0338dbbac2207e611750777895f7a5811b75
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SDWebImage: 783af2c3fa36291a250030c4752ee370a9a51d13
+  SKCountryPicker: ceff8cfffc0ddde2088f2fcc2d01d1ad530c0b03
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SVProgressHUD-0.8.1: ee9e6e58b5b5ffaf3f1a62c2dc409763470df143
+  Toucan: 8f228fabb21521b9658692df9325fe76e71d74b2
+  "UITextView+Placeholder": d7b0c400921f66523f3a85d74f774512e14f6502
+  VersaPlayer: 0e9a0ea7da786729ffb377dbd17b34641a8265e4
+  ZoomImageView: 2a88d0c10ad30b9a06c8f5660d51623fb32beed5
+
+PODFILE CHECKSUM: 9e4f7599c09ec8604725b9f8be29281c456ed876
+
+COCOAPODS: 1.10.1
